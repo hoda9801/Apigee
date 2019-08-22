@@ -1,2 +1,2 @@
 # Apigee
-Example Apigee bundles
+This is a repo to store example Apigee bundles to share with others
